@@ -1,3 +1,4 @@
+# AI video workshop
 steps 5-9 are meant to be done simultaneously to make the best use of our time considering that the generation of each clip takes a couple of minutes.
 # step 1 thematic development
 for this step we are going to pick a topic for our video, then we're going to explore different points surrounding it and try to make connections between them to then be able to create a timeline with a logical succession of events. were are also going to use assistance of different tools like chatbots and online translators for the generation and improvement of text.
