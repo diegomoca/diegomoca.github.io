@@ -1,6 +1,6 @@
 {
   "vaultName": "Notes",
-  "lastExport": 1739898149048,
+  "lastExport": 1739898680004,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title show-ribbon hide-folder-note folder-note-underline folder-note-underline-path fn-whitespace-stop-collapsing minimal-default-light minimal-notion-dark minimal-readable colorful-headings links-int-on links-ext-on full-width-media trim-cols",
   "useCustomHeadContent": false,
@@ -9,9 +9,14 @@
     "AI video workshop/Detaillierte Schritte/bilder/new project davinci.png",
     "AI video workshop/Detaillierte Schritte/bilder/new project davinci 2.png",
     "AI video workshop/Detaillierte Schritte/bilder/new project inkscape.png",
+    "AI video workshop/Detaillierte Schritte/Auswahl eines Themas.md",
+    "AI video workshop/Detaillierte Schritte/Brainstorming-Session.md",
     "AI video workshop/Detaillierte Schritte/Einrichtung des Ordnersystems.md",
     "AI video workshop/Detaillierte Schritte/Erklärung unseres Workflows.md",
     "AI video workshop/Detaillierte Schritte/Eröffnung der Computerprogramme.md",
+    "AI video workshop/Detaillierte Schritte/Erstellung einer Mind Map.md",
+    "AI video workshop/Detaillierte Schritte/Erstellung von Gruppen.md",
+    "AI video workshop/Detaillierte Schritte/Weiterentwicklung mit Hilfe von Chatbots und Übersetzer.md",
     "AI video workshop/Schlüsselkonzepte/KI/KI.md",
     "AI video workshop/Schlüsselkonzepte/KI/maschinellen Lernen.md",
     "AI video workshop/Schlüsselkonzepte/Artefakten und Fehlern bei der KI-Video-Generierung.md",
@@ -33,12 +38,7 @@
     "AI video workshop/Schlüsselkonzepte/Workflow.md",
     "AI video workshop/Tools/Tools.md",
     "AI video workshop/AI video workshop.md",
-    "AI video workshop/Auswahl eines Themas.md",
-    "AI video workshop/Brainstorming-Session.md",
-    "AI video workshop/Erstellung einer Mind Map.md",
-    "AI video workshop/Erstellung von Gruppen.md",
     "AI video workshop/Stundenplan.md",
-    "AI video workshop/Weiterentwicklung mit Hilfe von Chatbots und Übersetzer.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -150,37 +150,49 @@
   ],
   "fileInfo": {
     "AI video workshop/Detaillierte Schritte/bilder/new project davinci.png": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1497789,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci.png",
       "dependencies": []
     },
     "AI video workshop/Detaillierte Schritte/bilder/new project davinci 2.png": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 62376,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci-2.png",
       "dependencies": []
     },
     "AI video workshop/Detaillierte Schritte/bilder/new project inkscape.png": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 928776,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/bilder/new-project-inkscape.png",
       "dependencies": []
     },
+    "AI video workshop/Detaillierte Schritte/Auswahl eines Themas.md": {
+      "modifiedTime": 1739898680004,
+      "sourceSize": 405,
+      "exportedPath": "ai-video-workshop/detaillierte-schritte/auswahl-eines-themas.html",
+      "dependencies": []
+    },
+    "AI video workshop/Detaillierte Schritte/Brainstorming-Session.md": {
+      "modifiedTime": 1739898680004,
+      "sourceSize": 547,
+      "exportedPath": "ai-video-workshop/detaillierte-schritte/brainstorming-session.html",
+      "dependencies": []
+    },
     "AI video workshop/Detaillierte Schritte/Einrichtung des Ordnersystems.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1107,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/einrichtung-des-ordnersystems.html",
       "dependencies": []
     },
     "AI video workshop/Detaillierte Schritte/Erklärung unseres Workflows.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1170,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/erklärung-unseres-workflows.html",
       "dependencies": []
     },
     "AI video workshop/Detaillierte Schritte/Eröffnung der Computerprogramme.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1079,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/eröffnung-der-computerprogramme.html",
       "dependencies": [
@@ -189,500 +201,488 @@
         "ai-video-workshop/detaillierte-schritte/bilder/new-project-inkscape.png"
       ]
     },
+    "AI video workshop/Detaillierte Schritte/Erstellung einer Mind Map.md": {
+      "modifiedTime": 1739898680004,
+      "sourceSize": 667,
+      "exportedPath": "ai-video-workshop/detaillierte-schritte/erstellung-einer-mind-map.html",
+      "dependencies": []
+    },
+    "AI video workshop/Detaillierte Schritte/Erstellung von Gruppen.md": {
+      "modifiedTime": 1739898680004,
+      "sourceSize": 279,
+      "exportedPath": "ai-video-workshop/detaillierte-schritte/erstellung-von-gruppen.html",
+      "dependencies": []
+    },
+    "AI video workshop/Detaillierte Schritte/Weiterentwicklung mit Hilfe von Chatbots und Übersetzer.md": {
+      "modifiedTime": 1739898680004,
+      "sourceSize": 898,
+      "exportedPath": "ai-video-workshop/detaillierte-schritte/weiterentwicklung-mit-hilfe-von-chatbots-und-übersetzer.html",
+      "dependencies": []
+    },
     "AI video workshop/Schlüsselkonzepte/KI/KI.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 367,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/ki/ki.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/KI/maschinellen Lernen.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 383,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/ki/maschinellen-lernen.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Artefakten und Fehlern bei der KI-Video-Generierung.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1711,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/artefakten-und-fehlern-bei-der-ki-video-generierung.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Arten von Rede.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1117,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/arten-von-rede.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Bild-zu-Video-Generierung.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 328,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/bild-zu-video-generierung.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Brainstorming.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 376,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/brainstorming.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Exportieren eines Projektes.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 794,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/exportieren-eines-projektes.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Frieden.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 373,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/frieden.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Generative Kunst.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 417,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/generative-kunst.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Lippensynchronisierung.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 209,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/lippensynchronisierung.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Mindmap.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 516,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/mindmap.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Prompt.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 391,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/prompt.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Qualitätskontrolle.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 804,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/qualitätskontrolle.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Rohschnitt.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 298,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/rohschnitt.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Text-zu-Video-Generierung.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 249,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/text-zu-video-generierung.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Timeline.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 95,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/timeline.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Videobearbeitung.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 476,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/videobearbeitung.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Visual Storytelling.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 226,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/visual-storytelling.html",
       "dependencies": []
     },
     "AI video workshop/Schlüsselkonzepte/Workflow.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 293,
       "exportedPath": "ai-video-workshop/schlüsselkonzepte/workflow.html",
       "dependencies": []
     },
     "AI video workshop/Tools/Tools.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1255,
       "exportedPath": "ai-video-workshop/tools/tools.html",
       "dependencies": []
     },
     "AI video workshop/AI video workshop.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 10991,
       "exportedPath": "ai-video-workshop/ai-video-workshop.html",
       "dependencies": []
     },
-    "AI video workshop/Auswahl eines Themas.md": {
-      "modifiedTime": 1739898149048,
-      "sourceSize": 405,
-      "exportedPath": "ai-video-workshop/auswahl-eines-themas.html",
-      "dependencies": []
-    },
-    "AI video workshop/Brainstorming-Session.md": {
-      "modifiedTime": 1739898149048,
-      "sourceSize": 547,
-      "exportedPath": "ai-video-workshop/brainstorming-session.html",
-      "dependencies": []
-    },
-    "AI video workshop/Erstellung einer Mind Map.md": {
-      "modifiedTime": 1739898149048,
-      "sourceSize": 667,
-      "exportedPath": "ai-video-workshop/erstellung-einer-mind-map.html",
-      "dependencies": []
-    },
-    "AI video workshop/Erstellung von Gruppen.md": {
-      "modifiedTime": 1739898149048,
-      "sourceSize": 279,
-      "exportedPath": "ai-video-workshop/erstellung-von-gruppen.html",
-      "dependencies": []
-    },
     "AI video workshop/Stundenplan.md": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 2176,
       "exportedPath": "ai-video-workshop/stundenplan.html",
       "dependencies": []
     },
-    "AI video workshop/Weiterentwicklung mit Hilfe von Chatbots und Übersetzer.md": {
-      "modifiedTime": 1739898149048,
-      "sourceSize": 898,
-      "exportedPath": "ai-video-workshop/weiterentwicklung-mit-hilfe-von-chatbots-und-übersetzer.html",
-      "dependencies": []
-    },
     "ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci.png": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1497789,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci.png",
       "dependencies": []
     },
     "ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci-2.png": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 62376,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci-2.png",
       "dependencies": []
     },
     "ai-video-workshop/detaillierte-schritte/bilder/new-project-inkscape.png": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 928776,
       "exportedPath": "ai-video-workshop/detaillierte-schritte/bilder/new-project-inkscape.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1739898149048,
-      "sourceSize": 16604,
+      "modifiedTime": 1739898680004,
+      "sourceSize": 16714,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1739898149048,
-      "sourceSize": 3389,
+      "modifiedTime": 1739898680004,
+      "sourceSize": 3496,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 137329,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 4865,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 228400,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 671,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1739898149048,
+      "modifiedTime": 1739898680004,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
