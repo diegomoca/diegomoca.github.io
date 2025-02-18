@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Notes</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 18 Feb 2025 17:02:32 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 18 Feb 2025 17:02:29 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Einrichtung des Ordnersystems]]></title><description><![CDATA[ 
+ <br>Hier richten wir einen Ordner für unser Projekt ein und fügen Unterordner hinzu, um unseren <a data-href="Workflow" href="ai-video-workshop/schlüsselkonzepte/workflow.html" class="internal-link" target="_self" rel="noopener nofollow">Workflow</a> zu optimieren und das Auffinden von Dateien für unser Projekt zu erleichtern.<br>Hier sehen Sie ein Beispiel für eine logische Ordnerstruktur:<br>
+<br>Hauptordner des Projektes
+
+<br>Prompts und Texte
+
+<br>Clip Prompts
+
+<br>Szene 1 Clip Prompts
+
+<br>szene1_clip_prompt1.txt
+<br>szene1_clip_prompt2.txt
+
+
+<br>Szene 2 Clip Prompts
+
+<br>szene2_clip_prompt1.txt
+<br>szene2_clip_prompt2.txt
+
+
+
+
+<br>Musik Prompts
+
+<br>mein_stuck_prompt.txt
+
+
+<br>Dialog
+
+<br>Szene 1 Dialog
+
+<br>szene1_dialog.txt
+
+
+<br>Szene 2 Dialog
+
+<br>szene2_dialog1.txt
+<br>szene2_dialog2.txt
+
+
+
+
+
+
+<br>Materialien
+
+<br>Clips
+
+<br>Szene 1 Clips
+
+<br>szene1_clip1.mp4
+<br>szene1_clip2.mp4
+
+
+<br>Szene 2 Clips
+
+<br>szene2_clip1.mp4
+<br>szene2_clip2.mp4
+
+
+
+
+<br>Szenen
+
+<br>szene1.mp4
+<br>szene2.mp4
+
+
+<br>Audio
+
+<br>Musik
+
+<br>mein_stuck.mp3
+
+
+<br>Sprache
+
+<br>Szene 1 Sprache
+
+<br>szene1_sprache.mp3
+
+
+<br>Szene 2 Sprache
+
+<br>szene2_sprache1.mp3
+<br>szene2_sprache2.mp3
+
+
+
+
+
+
+
+
+<br>Endprodukt
+
+<br>mein_video.mp4
+
+
+
+
+]]></description><link>ai-video-workshop/detaillierte-schritte/einrichtung-des-ordnersystems.html</link><guid isPermaLink="false">AI video workshop/Detaillierte Schritte/Einrichtung des Ordnersystems.md</guid><pubDate>Tue, 18 Feb 2025 14:34:40 GMT</pubDate></item><item><title><![CDATA[Erklärung unseres Workflows]]></title><description><![CDATA[ 
+ <br>Das Wichtigste ist, dass wir unsere Clips erstellen, während wir an anderen Aspekten unseres Projekts arbeiten, um unsere Zeit optimal zu nutzen.<br>Zunächst müssen wir alles vorbereiten, um mit der Erstellung unserer Clips zu beginnen. Das bedeutet, dass wir ein klares Thema und einen <a data-href="Timeline" href="ai-video-workshop/schlüsselkonzepte/timeline.html" class="internal-link" target="_self" rel="noopener nofollow">Timeline</a> aufstellen, eine Liste von <a data-href="Prompt" href="ai-video-workshop/schlüsselkonzepte/prompt.html" class="internal-link" target="_self" rel="noopener nofollow">Prompt</a> schreiben, die wir für die Erstellung unserer Clips verwenden werden, und ein <a data-tooltip-position="top" aria-label="Einrichtung des Ordnersystems" data-href="Einrichtung des Ordnersystems" href="ai-video-workshop/detaillierte-schritte/einrichtung-des-ordnersystems.html" class="internal-link" target="_self" rel="noopener nofollow">Ordnersystem</a> vorbereiten.<br>Dann beginnen wir mit der Erstellung unseres ersten Clips. Wir beginnen mit den Clips für die komplexeren Teile des Films, die die meiste manuelle Arbeit erfordern, so dass wir an diesen arbeiten können, während wir die restlichen Clips generieren.<br>Sobald wir mit der Erstellung unseres ersten Clips beginnen, setzen wir einen Timer und springen zum nächsten Schritt. Wenn unser Timer abgelaufen ist und unser letzter Clip erstellt wurde, laden wir das Clip herunter und beginnen direkt mit der Erstellung eines neuen Clips. Dann wiederholen wir diese Schritte, bis wir die Erstellung unserer Clips abgeschlossen haben und uns auf andere Aspekte unseres Projekts konzentrieren können.]]></description><link>ai-video-workshop/detaillierte-schritte/erklärung-unseres-workflows.html</link><guid isPermaLink="false">AI video workshop/Detaillierte Schritte/Erklärung unseres Workflows.md</guid><pubDate>Tue, 18 Feb 2025 09:55:14 GMT</pubDate></item><item><title><![CDATA[Eröffnung der Computerprogramme]]></title><description><![CDATA[ 
+ <br>Zuerst öffnen die SchülerInnen ihren Browser und laden unseren Chatbot, <a data-tooltip-position="top" aria-label="https://chatgpt.com" rel="noopener nofollow" class="external-link" href="https://chatgpt.com" target="_blank">ChatGPT</a>, und unseren Übersetzer, <a data-tooltip-position="top" aria-label="https://www.deepl.com/en/translator" rel="noopener nofollow" class="external-link" href="https://www.deepl.com/en/translator" target="_blank">DeepL</a>. Als Nächstes öffnen sie unser Tool zur Musikerzeugung, <a data-tooltip-position="top" aria-label="https://www.udio.com" rel="noopener nofollow" class="external-link" href="https://www.udio.com" target="_blank">Udio</a>, und unseren Text-to-Speech-Generator, <a data-tooltip-position="top" aria-label="https://elevenlabs.io" rel="noopener nofollow" class="external-link" href="https://elevenlabs.io" target="_blank">ElevenLabs</a>. In der Zwischenzeit öffnet ein Tutor die Webseiten zur Videoerstellung, <a data-tooltip-position="top" aria-label="https://hailuoai.video" rel="noopener nofollow" class="external-link" href="https://hailuoai.video" target="_blank">Hailuo</a> und <a data-tooltip-position="top" aria-label="https://klingai.com" rel="noopener nofollow" class="external-link" href="https://klingai.com" target="_blank">Kling</a>.<br>Als Nächstes öffnen die Schüler ihre Videobearbeitungssoftware <a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a> und legen ein neues Projekt an.<br>
+<img alt="new project davinci.png" src="ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci.png"><br><br>Danach geben wir ihm einen Namen und klicken auf Create.<br>
+<img alt="new project davinci 2.png" src="ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci-2.png" style="width: 500px; max-width: 100%;"><br><br>Zum Schluss öffnen wir unser Bildbearbeitungsprogramm <a data-tooltip-position="top" aria-label="https://inkscape.org" rel="noopener nofollow" class="external-link" href="https://inkscape.org" target="_blank">Inkscape</a> und erstellen ein neues Projekt<br>
+<img alt="new project inkscape.png" src="ai-video-workshop/detaillierte-schritte/bilder/new-project-inkscape.png"><br>
+Wir brauchen uns nicht um das Speichern oder Umbenennen unserer Datei zu kümmern, da wir es nur zum Exportieren von Bildern verwenden werden.]]></description><link>ai-video-workshop/detaillierte-schritte/eröffnung-der-computerprogramme.html</link><guid isPermaLink="false">AI video workshop/Detaillierte Schritte/Eröffnung der Computerprogramme.md</guid><pubDate>Tue, 18 Feb 2025 15:52:27 GMT</pubDate><enclosure url="ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;ai-video-workshop/detaillierte-schritte/bilder/new-project-davinci.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[KI]]></title><description><![CDATA[ 
+ <br>Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI) ist ein Teilgebiet der Informatik, das sich mit der Automatisierung intelligenten Verhaltens und dem <a data-href="maschinellen Lernen" href="ai-video-workshop/schlüsselkonzepte/ki/maschinellen-lernen.html" class="internal-link" target="_self" rel="noopener nofollow">maschinellen Lernen</a> befasst. Der Begriff ist schwierig zu definieren, da es bereits an einer genauen Definition von Intelligenz mangelt.<br><a rel="noopener nofollow" class="external-link" href="https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz" target="_blank">https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/ki/ki.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/KI/KI.md</guid><pubDate>Mon, 17 Feb 2025 14:49:53 GMT</pubDate></item><item><title><![CDATA[maschinellen Lernen]]></title><description><![CDATA[ 
+ <br>Maschinelles Lernen (ML) entwickelt, untersucht und verwendet statistische Algorithmen, auch Lernalgorithmen genannt. Lernalgorithmen können Lösungen für Probleme lernen, die zu kompliziert sind, um sie mit Regeln zu beschreiben, zu denen es aber viele Daten gibt, die als Beispiele für die gewünschte Lösung dienen können.<br><a rel="noopener nofollow" class="external-link" href="https://de.wikipedia.org/wiki/Maschinelles_Lernen" target="_blank">https://de.wikipedia.org/wiki/Maschinelles_Lernen</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/ki/maschinellen-lernen.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/KI/maschinellen Lernen.md</guid><pubDate>Mon, 17 Feb 2025 14:49:57 GMT</pubDate></item><item><title><![CDATA[häufige Artefakten]]></title><description><![CDATA[ 
+ <br>Generative KI-Modelle bieten aus unterschiedlichen Gründen keine oder unzureichende Garantien hinsichtlich der Qualität ihrer Ausgaben. Es ist möglich, dass inkorrekte Inhalte sowie Inhalte minderer Qualität einerseits in den Trainingsdaten enthalten sind und dadurch das Modellverhalten negativ beeinflussen. Andererseits können derartige Inhalte aufgrund des probabilistischen Charakters der Modelle und der Abhängigkeit der Ausgabequalität von der Qualität der Eingaben trotz Verwendung von korrektem, hochqualitativem Trainingsmaterial erzeugt werden.<br><a rel="noopener nofollow" class="external-link" href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Generative_KI-Modelle.pdf?__blob=publicationFile&amp;v=7&amp;utm_source=chatgpt.com" target="_blank">https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Generative_KI-Modelle.pdf?__blob=publicationFile&amp;v=7&amp;utm_source=chatgpt.com</a><br><br><br>verschwommen, verpixelt, rauschen, niedrige Auflösung<br><br>zusammengewachsene Finger, lange Hälse, fehlende Arme<br><br>verzerrte Ausdrücke, unnatürliche Lächeln, verzerrte Augen<br><br>cartoonhaft, malerisch, digitale Kunst<br><br>unrealistische Schatten, inkonsistente Reflexionen, leuchtende Kanten<br><br>leerer Hintergrund, schwebende Objekte, schlecht integrierte Szenerie<br><br>plastische Haut, synthetische Texturen, unnatürliche Farben<br><br>surreale Elemente, Fantasieeigenschaften, robotische Teile<br><br>unnatürliche Körperhaltung, steife Haltung, unkoordinierter Rahmen<br><a rel="noopener nofollow" class="external-link" href="https://anakin.ai/de/blog/best-negative-prompts-for-realistic-images-a-guide-to-mastering-ai-art/?utm_source=chatgpt.com#1-niedrige-qualit%C3%A4t-und-technische-fehler" target="_blank">https://anakin.ai/de/blog/best-negative-prompts-for-realistic-images-a-guide-to-mastering-ai-art/?utm_source=chatgpt.com#1-niedrige-qualit%C3%A4t-und-technische-fehler</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/artefakten-und-fehlern-bei-der-ki-video-generierung.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Artefakten und Fehlern bei der KI-Video-Generierung.md</guid><pubDate>Tue, 18 Feb 2025 12:24:11 GMT</pubDate></item><item><title><![CDATA[Arten von Rede]]></title><description><![CDATA[ 
+ <br>
+<br>Dialog: Konversation zwischen zwei oder mehreren Personen.
+<br>Monolog: Eine lange Rede einer Figur, die oft ihre Gedanken oder Gefühle ausdrückt.
+<br>Erzählung: Eine Stimme, die die Geschichte erklärt oder erzählt, oft aus einer Off-Perspektive.
+<br>Voice-over: Eine Stimme, die das Bildmaterial begleitet, aber nicht Teil der Szene ist (häufig in Dokumentarfilmen oder introspektiven Filmen).
+<br>Selbstgespräch: Eine Figur, die ihre Gedanken laut ausspricht, oft allein (häufig im Theater und in einigen Filmen).
+<br>Direkte Ansprache: Wenn eine Figur sich direkt an das Publikum wendet und die „vierte Wand“ durchbricht.
+<br>Interner Monolog: Die Gedanken einer Figur, die als Voice-over zu hören sind und ihre inneren Überlegungen darstellen.
+<br>Off-Screen-Sprache: Dialoge oder Erzählungen, die außerhalb des Kamerabildes stattfinden.
+<br>Ambient Speech: Hintergrundsprache, die zur Atmosphäre beiträgt, aber nicht im Mittelpunkt der Szene steht.
+<br>Improvisierte Sprache: Ungeschriebene oder spontane Dialoge (häufig in Mockumentaries oder bestimmten Indie-Filmen).
+]]></description><link>ai-video-workshop/schlüsselkonzepte/arten-von-rede.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Arten von Rede.md</guid><pubDate>Mon, 17 Feb 2025 18:11:13 GMT</pubDate></item><item><title><![CDATA[Bild-zu-Video-Generierung]]></title><description><![CDATA[ 
+ <br>Die Bild-zu-Video-Generierung bezieht sich auf den Prozess, bei dem ein Videoclip aus einem Standbild generiert wird, wobei sichergestellt wird, dass der erste Frame des generierten Clips mit dem Bild übereinstimmt.<br>
+Nachdem das letzte Bild eines Clips extrahiert wurde, können wir diesen Prozess für seine Erweiterung nutzen.]]></description><link>ai-video-workshop/schlüsselkonzepte/bild-zu-video-generierung.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Bild-zu-Video-Generierung.md</guid><pubDate>Tue, 18 Feb 2025 10:29:20 GMT</pubDate></item><item><title><![CDATA[Brainstorming]]></title><description><![CDATA[ 
+ <br>Brainstorming ist eine Kreativitätstechnik, bei der eine Gruppe von Personen spontan auf eine Frage hin Ideen vorschlägt. Die Ideen werden während der Aktivität notiert, aber erst später bewertet oder kritisiert. Das Fehlen von Kritik und Bewertung soll verhindern, dass die Teilnehmer in ihrer Ideenproduktion gehemmt werden.<br><a rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Brainstorming" target="_blank">https://en.wikipedia.org/wiki/Brainstorming</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/brainstorming.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Brainstorming.md</guid><pubDate>Mon, 17 Feb 2025 17:19:05 GMT</pubDate></item><item><title><![CDATA[Exportieren eines Projektes]]></title><description><![CDATA[ 
+ <br>Bei der Videoproduktion ist der Export der Vorgang, bei dem das fertige Projekt in eine Videodatei umgewandelt wird, die heruntergeladen oder weitergegeben werden kann. <br>Während des Exports wendet die von Ihnen verwendete Bearbeitungssoftware alle Schnitte, Effekte, Übergänge, Audioanpassungen und Ebenen an, die Sie während der Bearbeitung vorgenommen haben, und kombiniert sie zu einer einzigen Videodatei in dem von Ihnen gewählten Format.<br>Bei diesem Prozess können Sie Einstellungen wie Auflösung, Bitrate, Dateiformat und Codec steuern, damit die Qualität des endgültigen Videos Ihren Standards entspricht und für die Wiedergabe auf verschiedenen Geräten oder Plattformen kompatibel ist.<br><a rel="noopener nofollow" class="external-link" href="https://riverside.fm/video-editor/video-editing-glossary/export?utm_source=chatgpt.com" target="_blank">https://riverside.fm/video-editor/video-editing-glossary/export?utm_source=chatgpt.com</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/exportieren-eines-projektes.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Exportieren eines Projektes.md</guid><pubDate>Tue, 18 Feb 2025 13:15:49 GMT</pubDate></item><item><title><![CDATA[Frieden]]></title><description><![CDATA[ 
+ <br>Friede oder Frieden (von althochdeutsch fridu „Schonung“, „Freundschaft“) ist allgemein definiert als ein heilsamer Zustand der Stille oder Ruhe, als die Abwesenheit von Störung oder Beunruhigung und besonders von Krieg. Frieden ist das Ergebnis der Tugend der „Friedfertigkeit“ und damit verbundener Friedensbemühungen.<br><a rel="noopener nofollow" class="external-link" href="https://de.wikipedia.org/wiki/Frieden" target="_blank">https://de.wikipedia.org/wiki/Frieden</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/frieden.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Frieden.md</guid><pubDate>Mon, 17 Feb 2025 15:07:24 GMT</pubDate></item><item><title><![CDATA[Generative Kunst]]></title><description><![CDATA[ 
+ <br>Generative Kunst ist postkonzeptionelle Kunst, die (ganz oder teilweise) mit Hilfe eines autonomen Systems geschaffen wurde. Ein autonomes System ist in diesem Zusammenhang in der Regel ein nicht-menschliches System, das eigenständig Merkmale eines Kunstwerks bestimmen kann, die andernfalls Entscheidungen erfordern würden, die direkt vom Künstler getroffen werden.<br><a rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Generative_art" target="_blank">https://en.wikipedia.org/wiki/Generative_art</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/generative-kunst.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Generative Kunst.md</guid><pubDate>Mon, 17 Feb 2025 14:52:52 GMT</pubDate></item><item><title><![CDATA[Lippensynchronisierung]]></title><description><![CDATA[ 
+ <br>Bei der Lippensynchronisation nehmen wir das Video einer Figur auf, die nicht spricht, und erstellen mit Hilfe von KI Mundbewegungen für die Figur, die zu einem von uns bereitgestellten Referenz-Audio passen.]]></description><link>ai-video-workshop/schlüsselkonzepte/lippensynchronisierung.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Lippensynchronisierung.md</guid><pubDate>Tue, 18 Feb 2025 10:07:50 GMT</pubDate></item><item><title><![CDATA[Mindmap]]></title><description><![CDATA[ 
+ <br>Eine Mind Map ist ein Diagramm, das dazu dient, Informationen visuell in einer Hierarchie zu ordnen und Beziehungen zwischen Teilen des Ganzen aufzuzeigen. Es basiert oft auf einem einzigen Konzept, das als Bild in der Mitte eines leeren Blattes gezeichnet wird und zu dem assoziierte Darstellungen von Ideen wie Bilder, Wörter und Wortteile hinzugefügt werden. Die Hauptideen sind direkt mit dem zentralen Konzept verbunden, und andere Ideen gehen von diesen Hauptideen ab.<br><a rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Mind_map" target="_blank">https://en.wikipedia.org/wiki/Mind_map</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/mindmap.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Mindmap.md</guid><pubDate>Mon, 17 Feb 2025 17:27:36 GMT</pubDate></item><item><title><![CDATA[Prompt]]></title><description><![CDATA[ 
+ <br>Ein Prompt ist ein Text in natürlicher Sprache, der die Aufgabe beschreibt, die eine KI ausführen soll. Prompt-Engineering kann die Formulierung einer Abfrage, die Angabe eines Stils, die Wahl von Wörtern und Grammatik, die Bereitstellung von relevantem Kontext oder die Beschreibung eines Charakters, den die KI nachahmen soll, umfassen.<br><a rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Prompt_engineering" target="_blank">https://en.wikipedia.org/wiki/Prompt_engineering</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/prompt.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Prompt.md</guid><pubDate>Tue, 18 Feb 2025 09:54:37 GMT</pubDate></item><item><title><![CDATA[Qualitätskontrolle]]></title><description><![CDATA[ 
+ <br>Bei der Qualitätskontrolle verwenden wir unseren Rohschnitt, um ein erstes echtes Feedback darüber zu erhalten, ob unser Projekt funktionieren wird. Der Rohschnitt gibt uns einen Eindruck von der allgemeinen Form und dem Fluss der Produktion, ihrer Atmosphäre und der Qualität der von uns erstellten Clips.<br>Durch den Prozess der Qualitätskontrolle erhalten wir wichtige Einblicke in spezifische Aspekte wie:<br>
+<br>
+Tempo und Abfolge der einzelnen Szenen: wie lang sind die Szenen und wie gut funktionieren sie zusammen.
+
+<br>
+Offensichtliche Lücken im Handlungsstrang, die gefüllt werden müssen.
+
+<br>
+Ob zusätzliche Clips (sogenannte Pickup-Fotos) benötigt werden, um diese Lücken zu füllen oder ganz neue Szenen zu schaffen.
+
+<br>
+Ob wir neue Clips erstellen müssen, um fehlerhafte Clips zu ersetzen.
+
+]]></description><link>ai-video-workshop/schlüsselkonzepte/qualitätskontrolle.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Qualitätskontrolle.md</guid><pubDate>Tue, 18 Feb 2025 12:46:42 GMT</pubDate></item><item><title><![CDATA[Rohschnitt]]></title><description><![CDATA[ 
+ <br>Als Rohschnitt, auch Grobschnitt, wird die erste Auswahl und Anordnung des gedrehten Filmmaterials bezeichnet. Der Rohschnitt ergibt die erste Schnittfassung eines Filmes.<br>
+Unmittelbar auf den Rohschnitt oder die Rohschnittabnahme folgt der <a data-href="Feinschnitt" href="Feinschnitt" class="internal-link" target="_self" rel="noopener nofollow">Feinschnitt</a>.<br><a rel="noopener nofollow" class="external-link" href="https://de.wikipedia.org/wiki/Rohschnitt" target="_blank">https://de.wikipedia.org/wiki/Rohschnitt</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/rohschnitt.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Rohschnitt.md</guid><pubDate>Tue, 18 Feb 2025 11:20:21 GMT</pubDate></item><item><title><![CDATA[Text-zu-Video-Generierung]]></title><description><![CDATA[ 
+ <br>Ein Text-zu-Video-Modell ist ein Machine-Learning-Modell, das eine natürlichsprachliche Beschreibung als Eingabe verwendet, um ein Video zu produzieren, das für den eingegebenen Text relevant ist.<br><a rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Text-to-video_model" target="_blank">https://en.wikipedia.org/wiki/Text-to-video_model</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/text-zu-video-generierung.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Text-zu-Video-Generierung.md</guid><pubDate>Tue, 18 Feb 2025 10:36:23 GMT</pubDate></item><item><title><![CDATA[Timeline]]></title><description><![CDATA[ 
+ <br>Chronologische Abfolge und Länge der einzelne Ereignisse (Clips, Szenen, Musik, Sprache usw.).]]></description><link>ai-video-workshop/schlüsselkonzepte/timeline.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Timeline.md</guid><pubDate>Mon, 17 Feb 2025 17:35:53 GMT</pubDate></item><item><title><![CDATA[Stufen der Videobearbeitung]]></title><description><![CDATA[ 
+ <br><br><br><br><br>
+<br>Größe (Ausschnitt, Drehung, Position)
+<br>Farbe (Art und Intensität – bis hin zum Schwarz-Weiß-Film –, Weißabgleich)
+<br>Helligkeit
+<br>Kontrast
+<br>Schärfe
+<br>Geschwindigkeit (schneller, langsamer, rückwärts)
+<br>Spiegelung (waagerecht und senkrecht)
+<br><br><br><a rel="noopener nofollow" class="external-link" href="https://de.wikipedia.org/wiki/Videobearbeitung" target="_blank">https://de.wikipedia.org/wiki/Videobearbeitung</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/videobearbeitung.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Videobearbeitung.md</guid><pubDate>Mon, 17 Feb 2025 15:05:49 GMT</pubDate></item><item><title><![CDATA[Visual Storytelling]]></title><description><![CDATA[ 
+ <br>
+<br>narrativer Filme
+
+<br>Kino
+<br>Fernsehsendungen
+<br>Karikaturen
+
+
+<br>Informationsfilme
+
+<br>Video Essays
+<br>Videojournalismus
+<br>Dokumentarfilme
+
+
+<br>nicht-narrativer Filme
+
+<br>abstrakte Filme
+<br>abstrakte Videoanimationen
+<br>Musikvideos
+
+
+]]></description><link>ai-video-workshop/schlüsselkonzepte/visual-storytelling.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Visual Storytelling.md</guid><pubDate>Mon, 17 Feb 2025 18:03:51 GMT</pubDate></item><item><title><![CDATA[Workflow]]></title><description><![CDATA[ 
+ <br>Als Arbeitsablauf (auch Arbeitsfolge oder englisch workflow) wird in der Organisationslehre die räumliche und zeitliche Reihenfolge von funktional, physikalisch oder technisch zusammengehörenden Arbeitsvorgängen an einem Arbeitsplatz bezeichnet.<br><a rel="noopener nofollow" class="external-link" href="https://de.wikipedia.org/wiki/Arbeitsablauf" target="_blank">https://de.wikipedia.org/wiki/Arbeitsablauf</a>]]></description><link>ai-video-workshop/schlüsselkonzepte/workflow.html</link><guid isPermaLink="false">AI video workshop/Schlüsselkonzepte/Workflow.md</guid><pubDate>Mon, 17 Feb 2025 16:06:59 GMT</pubDate></item><item><title><![CDATA[Tools]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a>
+<br><br>
+<br>Final Cut Pro
+<br>Adobe Premiere Pro
+<br>DaVinci Resolve
+<br>Vegas Pro
+<br>Lightworks
+<br>Camtasia
+<br>Media Composer
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://chatgpt.com" rel="noopener nofollow" class="external-link" href="https://chatgpt.com" target="_blank">ChatGPT</a>
+<br><br>
+<br>Deepseek
+<br>Cloude
+<br>Gemini
+<br>Copilot
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.deepl.com/en/translator" rel="noopener nofollow" class="external-link" href="https://www.deepl.com/en/translator" target="_blank">DeepL</a>
+<br><br>
+<br>Google Translate
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://hailuoai.video" rel="noopener nofollow" class="external-link" href="https://hailuoai.video" target="_blank">Hailou</a>
+<br><a data-tooltip-position="top" aria-label="https://klingai.com" rel="noopener nofollow" class="external-link" href="https://klingai.com" target="_blank">Kling</a>
+<br><br>
+<br>KREA
+<br>LTX Studio
+<br>Luma Dream Machine
+<br>Mochi 1
+<br>Pika
+<br>Vidu
+<br>invideo
+<br>EasyVid
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.udio.com" rel="noopener nofollow" class="external-link" href="https://www.udio.com" target="_blank">Udio</a>
+<br><br>
+<br>Suno
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://elevenlabs.io" rel="noopener nofollow" class="external-link" href="https://elevenlabs.io" target="_blank">ElevenLabs</a>
+<br><br>
+<br>PlayHT
+<br>Speechify
+<br>Azure
+<br>Google Text-to-Speech AI
+<br>Amazon Polly
+<br>Open AI Text-to-Speech
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://inkscape.org" rel="noopener nofollow" class="external-link" href="https://inkscape.org" target="_blank">Inkscape</a>
+<br><br>
+<br>GIMP
+<br>Adobe Photoshop
+<br>Adobe Illustrator
+<br>Canva
+<br>CorelDRAW
+<br>Figma
+<br>Affinity
+]]></description><link>ai-video-workshop/tools/tools.html</link><guid isPermaLink="false">AI video workshop/Tools/Tools.md</guid><pubDate>Mon, 17 Feb 2025 17:37:59 GMT</pubDate></item><item><title><![CDATA[AI video workshop]]></title><description><![CDATA[ 
+ <br><br>Die Schritte 5-8 sollten gleichzeitig durchgeführt werden, um die Zeit optimal zu nutzen, da die Erstellung jedes Clips einige Minuten dauert.<br><br>Zunächst werden wir den Schülern ein Formular zum Ausfüllen geben. Dann werden wir ihnen eine kleine Präsentation darüber geben, was wir in diesem Workshop machen. Wir werden Schlüsselkonzepte wie <a data-href="KI" href="ai-video-workshop/schlüsselkonzepte/ki/ki.html" class="internal-link" target="_self" rel="noopener nofollow">KI</a>, <a data-href="Generative Kunst" href="ai-video-workshop/schlüsselkonzepte/generative-kunst.html" class="internal-link" target="_self" rel="noopener nofollow">Generative Kunst</a> und <a data-href="Videobearbeitung" href="ai-video-workshop/schlüsselkonzepte/videobearbeitung.html" class="internal-link" target="_self" rel="noopener nofollow">Videobearbeitung</a> erklären. Danach werden wir das Thema unseres Workshops (<a data-href="Frieden" href="ai-video-workshop/schlüsselkonzepte/frieden.html" class="internal-link" target="_self" rel="noopener nofollow">Frieden</a>) vorstellen. Zum Schluss erklären wir unseren Plan für den Workshop und geben ihnen eine Liste der <a data-href="Tools" href="ai-video-workshop/tools/tools.html" class="internal-link" target="_self" rel="noopener nofollow">Tools</a>, die wir verwenden werden, sowie Alternativen.<br><br>
+<br>Abgabe von Anmeldeformulare
+<br>Präsentation zum Inhalt des Workshops (KI, Generative Kunst und Videobearbeitung.)
+<br>Erklärung zum Ablauf des Workshops und Präsentation der Tools
+<br>Präsentation zum Thema des Workshops (Frieden.)
+<br><br>
+<br><a data-href="KI" href="ai-video-workshop/schlüsselkonzepte/ki/ki.html" class="internal-link" target="_self" rel="noopener nofollow">KI</a>
+<br><a data-href="Generative Kunst" href="ai-video-workshop/schlüsselkonzepte/generative-kunst.html" class="internal-link" target="_self" rel="noopener nofollow">Generative Kunst</a>
+<br><a data-href="Videobearbeitung" href="ai-video-workshop/schlüsselkonzepte/videobearbeitung.html" class="internal-link" target="_self" rel="noopener nofollow">Videobearbeitung</a>
+<br><a data-href="Frieden" href="ai-video-workshop/schlüsselkonzepte/frieden.html" class="internal-link" target="_self" rel="noopener nofollow">Frieden</a>
+<br><br>Wir werden Gruppen erstellen, dann den geplanten <a data-href="Workflow" href="ai-video-workshop/schlüsselkonzepte/workflow.html" class="internal-link" target="_self" rel="noopener nofollow">Workflow</a> erläutern, alle Programme auf unseren Computern öffnen und ein <a data-tooltip-position="top" aria-label="Einrichtung des Ordnersystems" data-href="Einrichtung des Ordnersystems" href="ai-video-workshop/detaillierte-schritte/einrichtung-des-ordnersystems.html" class="internal-link" target="_self" rel="noopener nofollow">Ordnersystem</a> für unser Projekt einrichten.<br><br>
+<br><a data-href="Erstellung von Gruppen" href="ai-video-workshop/erstellung-von-gruppen.html" class="internal-link" target="_self" rel="noopener nofollow">Erstellung von Gruppen</a>
+<br><a data-href="Einrichtung des Ordnersystems" href="ai-video-workshop/detaillierte-schritte/einrichtung-des-ordnersystems.html" class="internal-link" target="_self" rel="noopener nofollow">Einrichtung des Ordnersystems</a>
+<br><a data-href="Eröffnung der Computerprogramme" href="ai-video-workshop/detaillierte-schritte/eröffnung-der-computerprogramme.html" class="internal-link" target="_self" rel="noopener nofollow">Eröffnung der Computerprogramme</a>
+<br><a data-href="Erklärung unseres Workflows" href="ai-video-workshop/detaillierte-schritte/erklärung-unseres-workflows.html" class="internal-link" target="_self" rel="noopener nofollow">Erklärung unseres Workflows</a>
+<br><br>
+<br><a data-href="Workflow" href="ai-video-workshop/schlüsselkonzepte/workflow.html" class="internal-link" target="_self" rel="noopener nofollow">Workflow</a>
+<br>Projektentwicklung
+<br><br>In diesem Schritt werden wir ein Thema für unser Video auswählen. Dann werden wir verschiedene Punkte rund um das Thema untersuchen und versuchen, Verbindungen zwischen ihnen herzustellen, mit Hilfe von Verfahren wie <a data-href="Brainstorming" href="ai-video-workshop/schlüsselkonzepte/brainstorming.html" class="internal-link" target="_self" rel="noopener nofollow">Brainstorming</a>, <a data-href="Mindmap" href="ai-video-workshop/schlüsselkonzepte/mindmap.html" class="internal-link" target="_self" rel="noopener nofollow">Mindmap</a>, und <a data-href="Reduction" href="Reduction" class="internal-link" target="_self" rel="noopener nofollow">Reduction</a> um eine <a data-href="Timeline" href="ai-video-workshop/schlüsselkonzepte/timeline.html" class="internal-link" target="_self" rel="noopener nofollow">Timeline</a> mit einer logischen Abfolge von Ereignissen zu erstellen. Wir werden auch die Hilfe verschiedener Tools wie <a data-tooltip-position="top" aria-label="Tools > Chatbots" data-href="Tools#Chatbots" href="ai-video-workshop/tools/tools.html#Chatbots" class="internal-link" target="_self" rel="noopener nofollow">Chatbots</a> und <a data-tooltip-position="top" aria-label="Tools > Übersetzer" data-href="Tools#Übersetzer" href="ai-video-workshop/tools/tools.html#Übersetzer" class="internal-link" target="_self" rel="noopener nofollow">Online-Übersetzer</a> für die Erstellung und Verbesserung unserer Ideen nutzen. <br><br>
+<br><a data-href="Auswahl eines Themas" href="ai-video-workshop/auswahl-eines-themas.html" class="internal-link" target="_self" rel="noopener nofollow">Auswahl eines Themas</a>
+<br><a data-href="Brainstorming-Session" href="ai-video-workshop/brainstorming-session.html" class="internal-link" target="_self" rel="noopener nofollow">Brainstorming-Session</a>
+<br><a data-href="Erstellung einer Mind Map" href="ai-video-workshop/erstellung-einer-mind-map.html" class="internal-link" target="_self" rel="noopener nofollow">Erstellung einer Mind Map</a>
+<br><a data-href="Weiterentwicklung mit Hilfe von Chatbots und Übersetzer" href="ai-video-workshop/weiterentwicklung-mit-hilfe-von-chatbots-und-übersetzer.html" class="internal-link" target="_self" rel="noopener nofollow">Weiterentwicklung mit Hilfe von Chatbots und Übersetzer</a>
+<br><br>
+<br><a data-href="Brainstorming" href="ai-video-workshop/schlüsselkonzepte/brainstorming.html" class="internal-link" target="_self" rel="noopener nofollow">Brainstorming</a>
+<br><a data-href="Mindmap" href="ai-video-workshop/schlüsselkonzepte/mindmap.html" class="internal-link" target="_self" rel="noopener nofollow">Mindmap</a>
+<br><a data-href="Reduction" href="Reduction" class="internal-link" target="_self" rel="noopener nofollow">Reduction</a>
+<br><a data-tooltip-position="top" aria-label="Tools > Chatbots" data-href="Tools#Chatbots" href="ai-video-workshop/tools/tools.html#Chatbots" class="internal-link" target="_self" rel="noopener nofollow">Chatbot</a>
+<br><a data-tooltip-position="top" aria-label="Tools > Übersetzer" data-href="Tools#Übersetzer" href="ai-video-workshop/tools/tools.html#Übersetzer" class="internal-link" target="_self" rel="noopener nofollow">Online-Übersetzer</a>
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://chatgpt.com" rel="noopener nofollow" class="external-link" href="https://chatgpt.com" target="_blank">ChatGPT</a>
+<br><a data-tooltip-position="top" aria-label="https://www.deepl.com/en/translator" rel="noopener nofollow" class="external-link" href="https://www.deepl.com/en/translator" target="_blank">DeepL</a>
+<br><br>In diesem Schritt werden wir verschiedene Methoden des <a data-href="Visual Storytelling" href="ai-video-workshop/schlüsselkonzepte/visual-storytelling.html" class="internal-link" target="_self" rel="noopener nofollow">Visual Storytelling</a> erkunden. Mit dem Material aus dem vorherigen Schritt planen wir eine ~1,5-minütige <a data-href="Timeline" href="ai-video-workshop/schlüsselkonzepte/timeline.html" class="internal-link" target="_self" rel="noopener nofollow">Timeline</a>, die in eine Reihe von Szenen und verschiedene Clips unterteilt ist. Wir werden die Länge der Szenen sehr genau festlegen und die Einschränkungen der Programme bei der Erstellung langer Clips berücksichtigen. <br><br>
+<br>Präsentation zum Visual Storytelling
+<br>Planung der Timeline
+<br><br>
+<br><a data-href="Visual Storytelling" href="ai-video-workshop/schlüsselkonzepte/visual-storytelling.html" class="internal-link" target="_self" rel="noopener nofollow">Visual Storytelling</a>
+<br><a data-href="Timeline" href="ai-video-workshop/schlüsselkonzepte/timeline.html" class="internal-link" target="_self" rel="noopener nofollow">Timeline</a>
+<br><br>In diesem Schritt werden wir verschiedene <a data-href="Arten von Rede" href="ai-video-workshop/schlüsselkonzepte/arten-von-rede.html" class="internal-link" target="_self" rel="noopener nofollow">Arten von Rede</a> untersuchen und dann einen Text schreiben, der unser Filmmaterial als Audio begleitet. Wir werden unsere zuvor entwickelte <a data-href="Timeline" href="ai-video-workshop/schlüsselkonzepte/timeline.html" class="internal-link" target="_self" rel="noopener nofollow">Timeline</a> berücksichtigen und unsere Geschichte durch gesprochene Worte verstärken. Auch hier werden wir die Hilfe von Tools wie <a data-tooltip-position="top" aria-label="Tools > Chatbots" data-href="Tools#Chatbots" href="ai-video-workshop/tools/tools.html#Chatbots" class="internal-link" target="_self" rel="noopener nofollow">Chatbots</a> und <a data-tooltip-position="top" aria-label="Tools > Übersetzer" data-href="Tools#Übersetzer" href="ai-video-workshop/tools/tools.html#Übersetzer" class="internal-link" target="_self" rel="noopener nofollow">Übersetzer</a> nutzen, um unsere Texte zu verbessern.<br>
+(45 minuten.)<br><br>
+<br>Präsentation über Arten von Rede
+<br>Schreiben von Rede mit Hilfe von Chatbots und Übersetzer
+<br><br>
+<br><a data-href="Arten von Rede" href="ai-video-workshop/schlüsselkonzepte/arten-von-rede.html" class="internal-link" target="_self" rel="noopener nofollow">Arten von Rede</a>
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://chatgpt.com" rel="noopener nofollow" class="external-link" href="https://chatgpt.com" target="_blank">ChatGPT</a>
+<br><a data-tooltip-position="top" aria-label="https://www.deepl.com/en/translator" rel="noopener nofollow" class="external-link" href="https://www.deepl.com/en/translator" target="_blank">DeepL</a>
+<br><br>In diesem Schritt werden wir damit beginnen, <a data-tooltip-position="top" aria-label="Prompt" data-href="Prompt" href="ai-video-workshop/schlüsselkonzepte/prompt.html" class="internal-link" target="_self" rel="noopener nofollow">Prompts</a> aufzuschreiben, um unsere Videoclips zu erstellen. Wir werden verschiedene Techniken ausprobieren, um mit möglichst wenigen Versuchen die bestmöglichen Ergebnisse zu erzielen. Wir werden auch lernen, wie detailliert wir Clips erstellen können und wie viele Informationen wir innerhalb der begrenzten Cliplänge übertragen können.<br>
+(45 minuten.)<br><br>
+<br>Präsentation über das Schreiben von <a data-tooltip-position="top" aria-label="Prompt" data-href="Prompt" href="ai-video-workshop/schlüsselkonzepte/prompt.html" class="internal-link" target="_self" rel="noopener nofollow">Prompts</a> 
+<br>Schreiben von Prompts mit Hilfe von <a data-tooltip-position="top" aria-label="Tools > Chatbots" data-href="Tools#Chatbots" href="ai-video-workshop/tools/tools.html#Chatbots" class="internal-link" target="_self" rel="noopener nofollow">Chatbots</a> und <a data-tooltip-position="top" aria-label="Tools > Übersetzer" data-href="Tools#Übersetzer" href="ai-video-workshop/tools/tools.html#Übersetzer" class="internal-link" target="_self" rel="noopener nofollow">Übersetzer</a>
+<br><br>
+<br><a data-tooltip-position="top" aria-label="Prompt" data-href="Prompt" href="ai-video-workshop/schlüsselkonzepte/prompt.html" class="internal-link" target="_self" rel="noopener nofollow">Prompts</a> schreiben
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://chatgpt.com" rel="noopener nofollow" class="external-link" href="https://chatgpt.com" target="_blank">ChatGPT</a>
+<br><a data-tooltip-position="top" aria-label="https://www.deepl.com/en/translator" rel="noopener nofollow" class="external-link" href="https://www.deepl.com/en/translator" target="_blank">DeepL</a>
+<br><br>In diesem Schritt werden wir damit beginnen, unsere zuvor geschriebenen <a data-href="Prompt" href="ai-video-workshop/schlüsselkonzepte/prompt.html" class="internal-link" target="_self" rel="noopener nofollow">Prompt</a> in einen <a data-tooltip-position="top" aria-label="Tools > KI-Videogenerierungsdienste" data-href="Tools#KI-Videogenerierungsdienste" href="ai-video-workshop/tools/tools.html#KI-Videogenerierungsdienste" class="internal-link" target="_self" rel="noopener nofollow">KI-Videogenerierungsdienst</a> wie <a data-tooltip-position="top" aria-label="https://hailuoai.video" rel="noopener nofollow" class="external-link" href="https://hailuoai.video" target="_blank">Hailou</a>einzufügen. Dann laden wir diese Videos herunter und organisieren sie in einem <a data-tooltip-position="top" aria-label="Einrichtung des Ordnersystems" data-href="Einrichtung des Ordnersystems" href="ai-video-workshop/detaillierte-schritte/einrichtung-des-ordnersystems.html" class="internal-link" target="_self" rel="noopener nofollow">Ordnersystem</a>, das für unser Projekt sinnvoll ist und das Auffinden dieser Clips einfach und intuitiv macht. Wir werden die Clips, die eine Erweiterung und <a data-href="Lippensynchronisierung" href="ai-video-workshop/schlüsselkonzepte/lippensynchronisierung.html" class="internal-link" target="_self" rel="noopener nofollow">Lippensynchronisierung</a> benötigen, nach Prioritäten ordnen, damit wir an diesen zeitaufwändigen Aspekten arbeiten können, während wir den Rest der Clips generieren. Wir werden auch lernen, das letzte Bild eines Clips mit Tools wie <a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a> und <a data-tooltip-position="top" aria-label="https://inkscape.org" rel="noopener nofollow" class="external-link" href="https://inkscape.org" target="_blank">Inkscape</a> zu extrahieren, um die Clips mit Hilfe der <a data-href="Bild-zu-Video-Generierung" href="ai-video-workshop/schlüsselkonzepte/bild-zu-video-generierung.html" class="internal-link" target="_self" rel="noopener nofollow">Bild-zu-Video-Generierung</a> zu erweitern.<br><br>
+<br>Generierung von Clips mit <a data-tooltip-position="top" aria-label="https://hailuoai.video" rel="noopener nofollow" class="external-link" href="https://hailuoai.video" target="_blank">Hailou</a>
+<br>Generierung von Figuren
+<br>Herunterladen von clips
+<br><a data-href="Extraktion des letzten Frames" href="Extraktion des letzten Frames" class="internal-link" target="_self" rel="noopener nofollow">Extraktion des letzten Frames</a>
+<br><a data-href="Verlängerung der Clips" href="Verlängerung der Clips" class="internal-link" target="_self" rel="noopener nofollow">Verlängerung der Clips</a>
+<br><br>
+<br><a data-href="Text-zu-Video-Generierung" href="ai-video-workshop/schlüsselkonzepte/text-zu-video-generierung.html" class="internal-link" target="_self" rel="noopener nofollow">Text-zu-Video-Generierung</a>
+<br><a data-href="Bild-zu-Video-Generierung" href="ai-video-workshop/schlüsselkonzepte/bild-zu-video-generierung.html" class="internal-link" target="_self" rel="noopener nofollow">Bild-zu-Video-Generierung</a>
+<br><a data-href="Verlängerung eines Clips" href="Verlängerung eines Clips" class="internal-link" target="_self" rel="noopener nofollow">Verlängerung eines Clips</a>
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://hailuoai.video" rel="noopener nofollow" class="external-link" href="https://hailuoai.video" target="_blank">Hailou</a>
+<br><a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a> 
+<br><a data-tooltip-position="top" aria-label="https://inkscape.org" rel="noopener nofollow" class="external-link" href="https://inkscape.org" target="_blank">Inkscape</a>
+<br><br>In diesem Schritt werden wir uns mit verschiedenen <a data-href="Musikgenres" href="Musikgenres" class="internal-link" target="_self" rel="noopener nofollow">Musikgenres</a> und <a data-href="Instrumenten" href="Instrumenten" class="internal-link" target="_self" rel="noopener nofollow">Instrumenten</a> beschäftigen. Wir werden auch lernen, wie die Musik und die Klänge, die wir in einem Film verwenden, die Emotionen und die Botschaft, die er vermittelt, völlig verändern können. Anschließend werden wir all dieses Wissen kombinieren, um ein für unseren Film geeignetes Musikstück zu erstellen.<br><br>
+<br>Präsentation über <a data-href="Musikgenres" href="Musikgenres" class="internal-link" target="_self" rel="noopener nofollow">Musikgenres</a>, <a data-href="Instrumente" href="Instrumente" class="internal-link" target="_self" rel="noopener nofollow">Instrumente</a> und ihre Wirkung im Film
+<br>Generierung von Musik mit <a data-tooltip-position="top" aria-label="https://www.udio.com" rel="noopener nofollow" class="external-link" href="https://www.udio.com" target="_blank">Udio</a>
+<br><br>
+<br><a data-href="Musikgenres" href="Musikgenres" class="internal-link" target="_self" rel="noopener nofollow">Musikgenres</a>
+<br><a data-href="Musikinstrumente" href="Musikinstrumente" class="internal-link" target="_self" rel="noopener nofollow">Musikinstrumente</a>
+<br><a data-href="Wirkung von Musik im Film" href="Wirkung von Musik im Film" class="internal-link" target="_self" rel="noopener nofollow">Wirkung von Musik im Film</a>
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.udio.com" rel="noopener nofollow" class="external-link" href="https://www.udio.com" target="_blank">Udio</a>
+<br><br>In diesem Schritt werden wir unsere zuvor generierte Sprache in eine <a data-tooltip-position="top" aria-label="Tools > Text-to-Speech-Generierungdienste" data-href="Tools#Text-to-Speech-Generierungdienste" href="ai-video-workshop/tools/tools.html#Text-to-Speech-Generierungdienste" class="internal-link" target="_self" rel="noopener nofollow">Text-to-Speech-Generierung Software</a> wie <a data-tooltip-position="top" aria-label="https://elevenlabs.io" rel="noopener nofollow" class="external-link" href="https://elevenlabs.io" target="_blank">ElevenLabs</a> einfügen. Wir werden verschiedene Sprachmodelle untersuchen und herausfinden, warum einige für bestimmte Anwendungen besser geeignet sind als andere. Wir werden auch versuchen, Stimmmodelle zu finden, die zu den in unseren Clips erzeugten Figuren passen, und dabei die Einschränkungen des kostenlosen Tarifs von ElevenLabs beachten.<br><br>
+<br>Auswahl der Sprachmodelle
+<br>Generierung von Sprache mit <a data-tooltip-position="top" aria-label="https://elevenlabs.io" rel="noopener nofollow" class="external-link" href="https://elevenlabs.io" target="_blank">ElevenLabs</a>
+<br><br>
+<br><a data-href="Text-to-Speech-Generierung" href="Text-to-Speech-Generierung" class="internal-link" target="_self" rel="noopener nofollow">Text-to-Speech-Generierung</a> 
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://elevenlabs.io" rel="noopener nofollow" class="external-link" href="https://elevenlabs.io" target="_blank">ElevenLabs</a>
+<br><br>In diesem Schritt fügen wir unsere zuvor erstellten Clips in eine <a data-tooltip-position="top" aria-label="Tools > Videobearbeitung-Software" data-href="Tools#Videobearbeitung-Software" href="ai-video-workshop/tools/tools.html#Videobearbeitung-Software" class="internal-link" target="_self" rel="noopener nofollow">Videobearbeitungssoftware</a> wie <a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a> ein. Wir werden ein Hauptprojekt für den endgültigen Film erstellen und auch Unterprojekte für einzelne Szenen erstellen, die zusätzliche Bearbeitung erfordern. Dann fügen wir die von uns generierte Musik und Sprache ein und lernen, wie man die Lautstärke der verschiedenen Audiodateien anpasst und sie in Stereo umwandelt.<br><br>
+<br>Erstellung eines Projekts in der <a data-href="Videobearbeitungssoftware" href="Videobearbeitungssoftware" class="internal-link" target="_self" rel="noopener nofollow">Videobearbeitungssoftware</a> <a data-href="DaVinci Resolve" href="DaVinci Resolve" class="internal-link" target="_self" rel="noopener nofollow">DaVinci Resolve</a>
+<br>Einrichten von Media in <a data-href="Videobearbeitungssoftware" href="Videobearbeitungssoftware" class="internal-link" target="_self" rel="noopener nofollow">Videobearbeitungssoftware</a>
+<br>Erstellung von Sub-Projekte für individuelle Szenen
+<br>Bearbeitung von Audio
+<br><br>
+<br>Video und Audiobearbeitung
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a>
+<br><br>In diesem Schritt werden wir lernen, Teile unseres <a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a>-Projekts zu exportieren, um die Clips zu extrahieren, die <a data-tooltip-position="top" aria-label="Lippensynchronisierung" data-href="Lippensynchronisierung" href="ai-video-workshop/schlüsselkonzepte/lippensynchronisierung.html" class="internal-link" target="_self" rel="noopener nofollow">lippensynchronisiert</a> werden müssen, und sie mit unseren zuvor generierten Reden mithilfe eines Dienstes wie <a data-href="Kling" href="Kling" class="internal-link" target="_self" rel="noopener nofollow">Kling</a> zu kombinieren. Wir werden auch etwas über Themen wie <a data-href="Medienkompetenz" href="Medienkompetenz" class="internal-link" target="_self" rel="noopener nofollow">Medienkompetenz</a> und die Notwendigkeit lernen, sich neuer Technologien bewusst zu sein, die für schädliche Medienmanipulationen verwendet werden können.<br><br>
+<br>Exportieren von einzelnen Clips mit <a data-href="DaVinci Resolve" href="DaVinci Resolve" class="internal-link" target="_self" rel="noopener nofollow">DaVinci Resolve</a>
+<br>Lippensynchronisierung mit <a data-tooltip-position="top" aria-label="https://klingai.com" rel="noopener nofollow" class="external-link" href="https://klingai.com" target="_blank">Kling</a>
+<br>Herunterladen und Hinzufügen von neuen Clips
+<br>Präsentation über <a data-href="Medienkompetenz" href="Medienkompetenz" class="internal-link" target="_self" rel="noopener nofollow">Medienkompetenz</a>
+<br><br>
+<br><a data-href="Exportieren eines Projektes" href="ai-video-workshop/schlüsselkonzepte/exportieren-eines-projektes.html" class="internal-link" target="_self" rel="noopener nofollow">Exportieren eines Projektes</a>
+<br><a data-href="Lippensynchronisierung" href="ai-video-workshop/schlüsselkonzepte/lippensynchronisierung.html" class="internal-link" target="_self" rel="noopener nofollow">Lippensynchronisierung</a>
+<br><a data-href="Medienkompetenz" href="Medienkompetenz" class="internal-link" target="_self" rel="noopener nofollow">Medienkompetenz</a>
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a>
+<br><a data-tooltip-position="top" aria-label="https://klingai.com" rel="noopener nofollow" class="external-link" href="https://klingai.com" target="_blank">Kling</a>
+<br><br>Zu Beginn dieses Schrittes sollten wir bereits einen <a data-href="Rohschnitt" href="ai-video-workshop/schlüsselkonzepte/rohschnitt.html" class="internal-link" target="_self" rel="noopener nofollow">Rohschnitt</a> unseres Videos in unserer <a data-tooltip-position="top" aria-label="https://www.blackmagicdesign.com/products/davinciresolve" rel="noopener nofollow" class="external-link" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">DaVinci Resolve</a>-Timeline haben. Wir werden nun die Qualität unseres Produkts bewerten, indem wir nach <a data-tooltip-position="top" aria-label="Artefakten und Fehlern bei der KI-Video-Generierung" data-href="Artefakten und Fehlern bei der KI-Video-Generierung" href="ai-video-workshop/schlüsselkonzepte/artefakten-und-fehlern-bei-der-ki-video-generierung.html" class="internal-link" target="_self" rel="noopener nofollow">Artefakten und Fehlern</a> suchen, die bei KI-generierten Bildern häufig vorkommen, z. B. Unstimmigkeiten in den Händen unserer Figuren oder Objekte, die sich in andere Objekte verwandeln. Wir können auch lernen, solche Inkonsistenzen auf kreative Weise zu unserem Vorteil zu nutzen. Wir werden beurteilen, welche Clips neu generiert werden müssen, und dabei lernen, die wichtigsten Teile des Projekts oder die Teile, die zusätzliche Arbeit benötigen, zu priorisieren und gleichzeitig ein fristgerechtes Endergebnis zu erzielen.<br><br>
+<br>Bewertung der Projektqualität
+<br>Priorisierung von Korrekturen
+<br>Generierung von neuen Clips mit <a data-href="Hailou" href="Hailou" class="internal-link" target="_self" rel="noopener nofollow">Hailou</a>
+<br><br>
+<br><a data-href="Qualitätskontrolle" href="ai-video-workshop/schlüsselkonzepte/qualitätskontrolle.html" class="internal-link" target="_self" rel="noopener nofollow">Qualitätskontrolle</a>
+<br>Fehler bei der Generierung von Bilder
+<br>Priorisierung
+<br><br>
+<br><a data-href="Hailou" href="Hailou" class="internal-link" target="_self" rel="noopener nofollow">Hailou</a>
+<br><br>Im letzten Schritt werden wir unserem Video den letzten Schliff geben und lernen, wie man es in eine Datei <a data-href="exportiert" href="exportiert" class="internal-link" target="_self" rel="noopener nofollow">exportiert</a>, die mit allen geteilt werden kann.<br><br>
+<br>Feinschliff des Projekts
+<br><a data-href="Exportieren" href="Exportieren" class="internal-link" target="_self" rel="noopener nofollow">Exportieren</a> des Films als Videodatei
+<br><br>
+<br>Herstellung des Endprodukts
+<br><br>
+<br><a data-href="DaVinci Resolve" href="DaVinci Resolve" class="internal-link" target="_self" rel="noopener nofollow">DaVinci Resolve</a>
+]]></description><link>ai-video-workshop/ai-video-workshop.html</link><guid isPermaLink="false">AI video workshop/AI video workshop.md</guid><pubDate>Tue, 18 Feb 2025 16:56:44 GMT</pubDate></item><item><title><![CDATA[Auswahl eines Themas]]></title><description><![CDATA[ 
+ <br>Die Schülerinnen und Schüler wählen ein Thema aus, das vorzugsweise mit unserem Projekt, <a data-href="Frieden" href="ai-video-workshop/schlüsselkonzepte/frieden.html" class="internal-link" target="_self" rel="noopener nofollow">Frieden</a>, in Verbindung steht. Für den Fall, dass sie Schwierigkeiten haben, eigene Ideen zu entwickeln, halten wir eine Liste von Thema bereit. Fühlen sie sich mit dem Schwerpunkt nicht wohl oder sind besonders motiviert, ein eigenes Konzept zu verfolgen, dürfen sie auch einen anderen Schwerpunkt wählen.]]></description><link>ai-video-workshop/auswahl-eines-themas.html</link><guid isPermaLink="false">AI video workshop/Auswahl eines Themas.md</guid><pubDate>Tue, 18 Feb 2025 16:04:13 GMT</pubDate></item><item><title><![CDATA[Brainstorming-Session]]></title><description><![CDATA[ 
+ <br>Sobald die Gruppen ein Thema für ihr Video gewählt haben, beginnen sie mit dem <a data-href="Brainstorming" href="ai-video-workshop/schlüsselkonzepte/brainstorming.html" class="internal-link" target="_self" rel="noopener nofollow">Brainstorming</a>, d. h. sie schreiben Konzepte und Schlüsselwörter auf, die ihrer Meinung nach mit ihrem Thema in Verbindung stehen.<br>Bei diesem Schritt ist es wichtig, nicht selbstkritisch oder kritisch gegenüber den Gruppenmitgliedern zu sein, da die Entwicklung von ausgefallenen Ideen ein wichtiger Teil der Übung ist. Es ist auch wichtig, daran zu denken, dass die meisten Ideen aus diesem Schritt wahrscheinlich nicht in das Endprodukt einfließen werden.]]></description><link>ai-video-workshop/brainstorming-session.html</link><guid isPermaLink="false">AI video workshop/Brainstorming-Session.md</guid><pubDate>Tue, 18 Feb 2025 16:15:41 GMT</pubDate></item><item><title><![CDATA[Erstellung einer Mind Map]]></title><description><![CDATA[ 
+ <br>Nachdem wir eine Liste von Wörtern und Begriffen zu unserem Thema erstellt haben, können wir mit dem Zeichnen unserer Mindmap beginnen. Wir schreiben unser Thema in großen Buchstaben in die Mitte einer Seite. Dann schreiben wir rundherum die Begriffe aus unserer Liste, die sich direkt darauf beziehen, und verbinden sie durch Linien mit dem Hauptthema. Als Nächstes fügen wir weitere Begriffe aus unserer Liste oder neue Begriffe hinzu, die mit anderen, bereits aufgeschriebenen Begriffen in Verbindung gebracht werden können. Dieser Prozess wird so lange fortgesetzt, bis wir keine wichtigen Verbindungen mehr finden oder uns die Ideen oder die Zeit ausgehen.]]></description><link>ai-video-workshop/erstellung-einer-mind-map.html</link><guid isPermaLink="false">AI video workshop/Erstellung einer Mind Map.md</guid><pubDate>Tue, 18 Feb 2025 16:26:16 GMT</pubDate></item><item><title><![CDATA[Erstellung von Gruppen]]></title><description><![CDATA[ 
+ <br>Da wir aus Zeitgründen nicht für jeden Schüler einen eigenen Film erstellen können, werden wir idealerweise fünf Gruppen bilden und einen Film pro Gruppe erstellen. Allerdings kann jeder Schüler einzeln an der Videobearbeitung arbeiten, sofern wir genügend Laptops haben.]]></description><link>ai-video-workshop/erstellung-von-gruppen.html</link><guid isPermaLink="false">AI video workshop/Erstellung von Gruppen.md</guid><pubDate>Tue, 18 Feb 2025 16:51:07 GMT</pubDate></item><item><title><![CDATA[Tag 1:]]></title><description><![CDATA[ 
+ <br><br>3,5 Std.<br><br>
+<br>Abgabe von Anmeldeformulare
+<br>Präsentation zum Inhalt des Workshops (KI, Videobearbeitung, Generative Kunst.)
+<br>Erklärung zum Ablauf des Workshops und Präsentation der Werkzeuge
+<br>Präsentation zum Thema des Workshops (Frieden.)
+<br><br>
+<br>Erstellung von Gruppen
+<br>Einrichtung des Ordnersystems
+<br>Eröffnung der Computerprogramme
+<br>Erklärung der Workflows
+<br><br>
+<br>Auswahl eines Themas
+<br>Brainstorming
+<br>Mindmapping
+<br>Weiterentwicklung mit Hilfe von Chatbots und Übersetzer
+<br><br>
+<br>Präsentation zum Visual Storytelling
+<br>Planung der Timeline 
+<br><br><br>
+<br>Präsentation über Arten von Rede
+<br>Schreiben von Rede mit Hilfe von Chatbots und Übersetzer
+<br><br>
+<br>Präsentation über das Schreiben von Prompts
+<br>Schreiben von Prompts mit Hilfe von Chatbots und Übersetzer
+<br><br>3,5 Std.<br><br>
+<br>Generierung von Clips mit Hailou
+<br>Generierung von Figuren
+<br>Herunterladen von clips
+<br>Extraktion des letzten Frames
+<br>Verlängerung der Clips
+<br><br>
+<br>Präsentation über Musikgenres, Instrumente und ihre Wirkung im Film
+<br>Generierung von Musik mit Udio
+<br><br><br>
+<br>Auswahl der Sprachmodelle
+<br>Generierung von Sprache mit ElevenLabs
+<br><br>
+<br>Erstellung eines Projekts in der Videobearbeitungssoftware DaVinci
+<br>Einrichten von Media in Videobearbeitungssoftware
+<br>Erstellung von Sub-Projekte für individuelle Szenen
+<br>Bearbeitung von Audio
+<br><br>3,5 Std.<br><br>
+<br>Exportieren von einzelnen Clips mit DaVinci
+<br>Lippensynchronisierung mit Kling
+<br>Herunterladen und Hinzufügen von neuen Clips
+<br>Präsentation über Medienkompetenz
+<br><br>
+<br>Bewertung der Projektqualität
+<br>Priorisierung von Korrekturen
+<br>Generierung von neuen Clips mit Hailou
+<br><br><br>
+<br>Feinschliff des Projekts
+<br>Exportieren des Films als Videodatei
+<br><br>
+<br>Präsentation der fertigen Filme
+<br>Diskussion und Feedback-Runde
+]]></description><link>ai-video-workshop/stundenplan.html</link><guid isPermaLink="false">AI video workshop/Stundenplan.md</guid><pubDate>Mon, 17 Feb 2025 13:41:03 GMT</pubDate></item><item><title><![CDATA[Weiterentwicklung mit Hilfe von Chatbots und Übersetzer]]></title><description><![CDATA[ 
+ <br>Nachdem wir unsere <a data-href="Mindmap" href="ai-video-workshop/schlüsselkonzepte/mindmap.html" class="internal-link" target="_self" rel="noopener nofollow">Mindmap</a> fertiggestellt haben, werden wir hoffentlich eine klarere Vorstellung von den möglichen Richtungen haben, die unser Video einschlagen kann. Der nächste Schritt besteht darin, unseren Chatbot [ChatGPT] (<a rel="noopener nofollow" class="external-link" href="https://chatgpt.com" target="_blank">https://chatgpt.com</a>) zu verwenden, um uns bei der Erstellung eines <a data-tooltip-position="top" aria-label="Timeline" data-href="Timeline" href="ai-video-workshop/schlüsselkonzepte/timeline.html" class="internal-link" target="_self" rel="noopener nofollow">Timelines</a> zu helfen.<br>Wir werden ihn bitten, ein Skript mit oder ohne Dialog zu erstellen, das unsere besten Ideen aus den vorherigen Schritten enthält. Wir werden die Aufgabe sehr genau beschreiben, einschließlich Details wie die gewünschte Dauer des Videos und die Anzahl der Szenen.<br>
+Sobald wir ein Drehbuch haben, mit dem wir relativ zufrieden sind, werden wir die kleinen Details verfeinern und unnötige Informationen entfernen.<br>Wir werden auch unseren Übersetzer, <a data-tooltip-position="top" aria-label="https://www.deepl.com/en/translator" rel="noopener nofollow" class="external-link" href="https://www.deepl.com/en/translator" target="_blank">DeepL</a>, hinzuziehen, wenn wir Schwierigkeiten mit der Sprache haben.]]></description><link>ai-video-workshop/weiterentwicklung-mit-hilfe-von-chatbots-und-übersetzer.html</link><guid isPermaLink="false">AI video workshop/Weiterentwicklung mit Hilfe von Chatbots und Übersetzer.md</guid><pubDate>Tue, 18 Feb 2025 16:56:05 GMT</pubDate></item></channel></rss>
